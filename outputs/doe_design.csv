@@ -1,0 +1,16 @@
+StdOrder,Binder_pct_coded,Disintegrant_pct_coded,Compression_kN_coded,Binder_pct,Disintegrant_pct,Compression_kN,RunOrder,PointType
+5,-1,0,-1,2.0,4.0,8.0,1,Edge
+13,0,0,0,4.0,4.0,12.0,2,Center
+10,0,-1,1,4.0,2.0,16.0,3,Edge
+4,1,1,0,6.0,6.0,12.0,4,Edge
+11,0,1,-1,4.0,6.0,8.0,5,Edge
+9,0,-1,-1,4.0,2.0,8.0,6,Edge
+1,-1,-1,0,2.0,2.0,12.0,7,Edge
+2,-1,1,0,2.0,6.0,12.0,8,Edge
+15,0,0,0,4.0,4.0,12.0,9,Center
+3,1,-1,0,6.0,2.0,12.0,10,Edge
+8,1,0,1,6.0,4.0,16.0,11,Edge
+6,-1,0,1,2.0,4.0,16.0,12,Edge
+12,0,1,1,4.0,6.0,16.0,13,Edge
+14,0,0,0,4.0,4.0,12.0,14,Center
+7,1,0,-1,6.0,4.0,8.0,15,Edge

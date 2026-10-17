@@ -1,0 +1,9 @@
+Material,mg_per_tablet,pct_w/w,Lab_kg (1 kg batch),Exhibit_kg (25 kg batch),Commercial_kg (135 kg batch)
+API (potency-adjusted),101.008,40.4,0.404,10.101,54.544
+"Binder (e.g., povidone)",9.5,3.8,0.038,0.95,5.13
+"Superdisintegrant (e.g., croscarmellose sodium)",12.5,5.0,0.05,1.25,6.75
+"Lubricant (e.g., magnesium stearate)",2.5,1.0,0.01,0.25,1.35
+"Diluent (e.g., microcrystalline cellulose), q.s.",124.492,49.8,0.498,12.449,67.226
+Purified water (granulation; removed in drying),,,0.297,7.425,40.095
+"Film-coat solids (3.0% gain, incl. 10% overage)",,,0.033,0.825,4.455
+Purified water (coating dispersion),,,0.187,4.675,25.245

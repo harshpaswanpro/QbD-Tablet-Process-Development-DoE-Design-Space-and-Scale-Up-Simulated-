@@ -1,0 +1,19 @@
+Scale,Batch_kg,Unit_operation,Equipment_size,Fill_pct,Allowed_fill_pct
+Lab,1.0,RMG (high-shear granulator),5 L bowl,40.0,30%-50%
+Lab,1.0,Fluid-bed dryer,2 kg wet load,64.0,25%-90%
+Lab,1.0,Bin blender,5 L bin,36.0,30%-60%
+Lab,1.0,Coating pan,2 kg cores,50.0,40%-90%
+Lab,1.0,Rotary tablet press,"8 stations, PCD 150 mm, 20 rpm",,"9,600 tab/h -> 0.4 h per batch"
+Lab,1.0,Sifter / mill,"vibro sifter, co-mill (screens set from exhibit data)",,n/a
+Exhibit,25.0,RMG (high-shear granulator),150 L bowl,33.0,30%-50%
+Exhibit,25.0,Fluid-bed dryer,60 kg wet load,54.0,25%-90%
+Exhibit,25.0,Bin blender,100 L bin,45.0,30%-60%
+Exhibit,25.0,Coating pan,30 kg cores,83.0,40%-90%
+Exhibit,25.0,Rotary tablet press,"27 stations, PCD 250 mm, 15 rpm",,"24,300 tab/h -> 4.1 h per batch"
+Exhibit,25.0,Sifter / mill,"vibro sifter, co-mill (screens set from exhibit data)",,n/a
+Commercial,135.0,RMG (high-shear granulator),600 L bowl,45.0,30%-50%
+Commercial,135.0,Fluid-bed dryer,300 kg wet load,58.0,25%-90%
+Commercial,135.0,Bin blender,600 L bin,41.0,30%-60%
+Commercial,135.0,Coating pan,150 kg cores,90.0,40%-90%
+Commercial,135.0,Rotary tablet press,"45 stations, PCD 400 mm, 12 rpm",,"32,400 tab/h -> 16.7 h per batch"
+Commercial,135.0,Sifter / mill,"vibro sifter, co-mill (screens set from exhibit data)",,n/a

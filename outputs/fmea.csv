@@ -1,0 +1,11 @@
+Parameter,Unit operation,Failure mode,CQAs affected,S,O,D,RPN,Cum_%
+Binder concentration (% w/w),Wet granulation,Weak or over-hard granules,"Hardness, friability, dissolution",7,7,5,245,15.8
+Compression force (kN),Compression,Low: friable tablets. High: slow disintegration,"Hardness, friability, dissolution",8,7,4,224,30.3
+Granulation endpoint (water / wet mass),Wet granulation,Over- or under-granulation,"Dissolution, content uniformity",7,5,6,210,43.9
+Disintegrant level (% w/w),Blending,Slow disintegration,"Disintegration, dissolution",8,6,4,192,56.3
+Lubricant blending time,Lubrication,"Over-lubrication slows release, lowers hardness","Dissolution, hardness",6,5,5,150,66.0
+Blend uniformity / blending time,Blending,Segregation or poor mixing,"Content uniformity, assay",9,3,5,135,74.8
+Mill screen size / speed,Milling,Particle size distribution shifts,"Flow, content uniformity",6,4,5,120,82.5
+API particle size (CMA),Raw material,Coarse API reduces dissolution,"Dissolution, content uniformity",9,4,3,108,89.5
+Press speed (dwell time),Compression,"Weight variation, capping","Weight variation, hardness",6,5,3,90,95.3
+Drying end-point (LOD),Drying,Moisture out of range,"Assay, hardness, stability",6,4,3,72,100.0

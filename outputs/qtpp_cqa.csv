@@ -1,0 +1,10 @@
+Attribute,Target,CQA,Justification,Acceptance criterion
+Dosage form,Immediate-release film-coated tablet,No,Defines product design,n/a
+Strength,100 mg (model BCS Class II API),No,Dose accuracy,n/a
+Assay,95.0-105.0% of label claim,Yes,Efficacy and safety,95.0-105.0%
+Content uniformity,Uniform dose per tablet,Yes,Dose consistency,Acceptance Value <= 15 (USP <905>)
+Dissolution,Rapid release,Yes,Bioavailability (BCS II is dissolution-limited),Q30 >= 80% (assumed)
+Hardness,Robust for handling and coating,Yes,"Handling, packaging, dissolution",5-10 kp (assumed)
+Friability,Low mass loss,Yes,"Handling, coating",<= 1.0% (USP <1216>)
+Disintegration time,Fast breakup,Yes,Drives dissolution,<= 15 min (assumed)
+Weight variation,Consistent tablet weight,Yes,Dose consistency,Per pharmacopoeial limits

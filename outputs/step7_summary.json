@@ -1,0 +1,9 @@
+{
+  "commercial_batch_kg": 135,
+  "exhibit_batch_kg": 25.0,
+  "lab_batch_kg": 1.0,
+  "limiting_unit": "Coating pan",
+  "batches_per_year": 112,
+  "press_hours_per_year": 1866.6666666666667,
+  "api_mg_per_tablet": 101.007550314386
+}

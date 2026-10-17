@@ -1,0 +1,13 @@
+Batch,Binder_pct,Disintegrant_pct,Compression_kN,Response,Observed,Predicted,PI_low,PI_high,Error_pct,In_PI,Meets_spec
+CB1,3.812,4.93,13.22,Hardness_kp,7.529,7.488,6.998,7.978,0.554,True,True
+CB1,3.812,4.93,13.22,Friability_pct,0.394,0.477,0.381,0.597,-17.401,True,True
+CB1,3.812,4.93,13.22,DT_min,5.791,5.439,5.044,5.864,6.484,True,True
+CB1,3.812,4.93,13.22,Dissolution_Q30,87.95,90.588,87.691,93.485,-2.913,True,True
+CB2,3.711,4.843,13.573,Hardness_kp,7.609,7.549,7.06,8.038,0.804,True,True
+CB2,3.711,4.843,13.573,Friability_pct,0.519,0.469,0.375,0.587,10.62,True,True
+CB2,3.711,4.843,13.573,DT_min,5.733,5.586,5.182,6.023,2.628,True,True
+CB2,3.711,4.843,13.573,Dissolution_Q30,89.248,90.13,87.218,93.042,-0.978,True,True
+CB3,3.849,5.14,12.849,Hardness_kp,7.133,7.349,6.858,7.84,-2.941,True,True
+CB3,3.849,5.14,12.849,Friability_pct,0.549,0.494,0.395,0.619,11.086,True,True
+CB3,3.849,5.14,12.849,DT_min,4.903,5.119,4.747,5.519,-4.207,True,True
+CB3,3.849,5.14,12.849,Dissolution_Q30,92.021,91.558,88.671,94.444,0.507,True,True

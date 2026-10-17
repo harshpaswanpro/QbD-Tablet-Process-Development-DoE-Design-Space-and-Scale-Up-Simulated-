@@ -1,0 +1,11 @@
+Item,Type,Proposed control,Protects CQA,Basis / status
+Binder level,CPP,Target 3.8% w/w; range 2.8-4.8,"Hardness, friability, DT, dissolution",DoE models + design space (Steps 4-5)
+Disintegrant level,CPP,Target 5.0% w/w; range 4.0-5.0,"DT, dissolution",DoE models + design space; target sits at the practical upper limit
+Compression force,CPP,Target 13.2 kN; range 11.2-15.2; automatic reject outside,"Hardness, friability, DT, dissolution",DoE models + design space
+Granulation endpoint,IPC,Impeller power consumption / wet-mass consistency window,"Dissolution, content uniformity","Fixed in the DoE, NOT studied: set the window from exhibit batches"
+Drying endpoint,IPC,LOD limit at end of drying,"Assay, hardness, stability",Not studied: set the limit from exhibit data
+Lubrication,CPP (fixed),75 revolutions (time = revolutions / rpm),"Dissolution, hardness",FMEA ranked this risk; held constant in the DoE
+API particle size,CMA,d90 limit on incoming API,"Dissolution, content uniformity",Fixed in the DoE: set the limit from supplier data and studies
+Blend uniformity,IPC,Blend sampling plan and acceptance limits before compression,"Content uniformity, assay",Highest-severity FMEA item
+"Tablet weight, hardness, thickness, friability",IPC,Periodic checks during compression,"Weight variation, hardness, friability",Specification limits from Step 1
+Finished-product CQAs,Release,Assay 95-105%; CU AV <= 15; Q30 >= 80%; DT <= 15 min; friability <= 1.0%,All CQAs,Step 1 acceptance criteria (assumed values)

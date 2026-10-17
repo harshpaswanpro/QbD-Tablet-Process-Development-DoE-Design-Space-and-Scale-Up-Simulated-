@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "P_TARGET": 0.9,
+    "K_GRID": 1000,
+    "K_VERIFY": 10000,
+    "PROC_SD_REAL": {
+      "A": 0.15,
+      "B": 0.15,
+      "C": 0.4
+    },
+    "SEED": 7
+  },
+  "desirability_optimum": {
+    "label": "Desirability optimum (unconstrained)",
+    "Binder_pct": 4.800000000000001,
+    "Disintegrant_pct": 6.0,
+    "Compression_kN": 11.6,
+    "Desirability": 0.9057907973296332,
+    "P_all_CQAs_10k": 1.0,
+    "responses": {
+      "Hardness_kp": {
+        "mean": 7.470998459326816,
+        "p5": 6.8912892149648854,
+        "p95": 8.041731004057196
+      },
+      "Friability_pct": {
+        "mean": 0.4778057078577768,
+        "p5": 0.3855881164252661,
+        "p95": 0.5841880755015824
+      },
+      "DT_min": {
+        "mean": 4.6363623611244025,
+        "p5": 4.220701462199394,
+        "p95": 5.071476246159966
+      },
+      "Dissolution_Q30": {
+        "mean": 93.51124979204165,
+        "p5": 90.99505805297359,
+        "p95": 95.99955555102811
+      }
+    }
+  },
+  "robust_point": {
+    "label": "Robust operating point (disintegrant <= 5.0%)",
+    "Binder_pct": 3.8,
+    "Disintegrant_pct": 5.0,
+    "Compression_kN": 13.2,
+    "Desirability": 0.8459906789068095,
+    "P_all_CQAs_10k": 1.0,
+    "responses": {
+      "Hardness_kp": {
+        "mean": 7.469066648667284,
+        "p5": 6.948047563160399,
+        "p95": 7.980575791468029
+      },
+      "Friability_pct": {
+        "mean": 0.48302523560454186,
+        "p5": 0.3957535748248782,
+        "p95": 0.5822330112890454
+      },
+      "DT_min": {
+        "mean": 5.3627789527875835,
+        "p5": 4.886098893420176,
+        "p95": 5.868638586705188
+      },
+      "Dissolution_Q30": {
+        "mean": 90.80991162283442,
+        "p5": 88.36545299949525,
+        "p95": 93.26574378433659
+      }
+    }
+  },
+  "design_space_share": 0.5622502969441745,
+  "NOR": {
+    "Binder (% w/w)": [
+      2.8,
+      4.8
+    ],
+    "Disintegrant (% w/w)": [
+      4.0,
+      5.0
+    ],
+    "Compression force (kN)": [
+      11.2,
+      15.2
+    ]
+  }
+}

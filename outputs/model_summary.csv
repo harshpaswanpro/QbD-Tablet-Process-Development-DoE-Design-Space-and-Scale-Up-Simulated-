@@ -1,0 +1,5 @@
+Response,Transform,Terms,R2,Adj_R2,Pred_R2,Adeq_Precision,Model_p,LOF_p,RMSE,Resid_df
+Hardness_kp,none,A+C+AC+C2,0.9932,0.9905,0.9774,64.9007,0.0,0.1048,0.2067,10
+Friability_pct,ln,A+C+C2,0.9787,0.9729,0.9546,42.5484,0.0,0.3398,0.0961,11
+DT_min,ln,A+B+C+B2+C2,0.9974,0.9959,0.9926,80.9663,0.0,0.4674,0.0305,9
+Dissolution_Q30,none,A+B+C+AB+B2,0.9847,0.9762,0.9565,34.2128,0.0,0.2767,1.2026,9
